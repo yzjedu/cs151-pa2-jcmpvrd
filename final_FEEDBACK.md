@@ -62,7 +62,7 @@
 - You have a function, but the function design is not shown in the algorithm's document. 
 - You are using lists and dictionaries, which has not been discussed in this class If you prove to me that this is your code, not somebody else's or is not written by a  AI, then I can upgrade your grade. 
 
-### Grade: R
+### Grade: M
 
-### Participation Grade: U
+### Participation Grade: S
 There is no flow chart. 
